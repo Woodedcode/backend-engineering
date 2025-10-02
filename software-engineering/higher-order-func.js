@@ -1,4 +1,4 @@
-const data = [1,2,3,4,5]
+bconst data = [1,2,3,4,5]
 
 const modify = (data,f) => {
     for (let i = 0; i < data.length; i++){
@@ -31,3 +31,4 @@ const algorithm = (functions) => {
 const algo = algorithm(functions)
 
 console.log(algo(2))
+
